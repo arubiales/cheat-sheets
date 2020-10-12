@@ -114,7 +114,11 @@ para ello necesitamos hacer un **pull request**. Esto sería enviarle los cambio
   
 Para hacer un pull request lo tienes en la pantalla principal "New pull request" y en la siguiente pantalla se vera los cambios que afectarán al fork de la rama master
 
-# Esto de GITHUB se queda por rellenar ya que no tienes proyectos ni compañeros
+# COSAS MÁS USADAS
+
+## MERGE COMMITS EN 1
+
+1. Cuando tengas todo tanto en github como en git al día. ejecutar ```git rebase -i HEAD~n``` donde *n* es el número de archivos que queremos retroceder
 
 
 
