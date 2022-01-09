@@ -8,4 +8,3 @@ BASH_ENV=~/.bashrc_conda
 ```
 
 **Ademas** es necesario de home, copiar el apaartado de ```/.bashrc``` de conda y crear uno nuevo que se llame ```.bashrc_conda``` que será el que usará crontab. Een el copiaremos como hemos dicho el apartado de conda de ```/.bashrc```
-

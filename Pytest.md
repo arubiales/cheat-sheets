@@ -87,3 +87,5 @@ python_files = media_press/tests/test_*
 python_classes = Tests*
 python_functions = test_*
 ```
+
+ python -m pytest -v --cov tests/

@@ -23,3 +23,5 @@
 
 ## Fixtures
 nos sirve como el setup de unnittestt
+
+ python -m pytest -v --cov tests/
